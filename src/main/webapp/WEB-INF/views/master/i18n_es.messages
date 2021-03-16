@@ -12,7 +12,7 @@
 
 master.banner.background = #FFE97F 
 
-﻿# master.welcome ##############################################################
+# master.welcome ##############################################################
 
 master.welcome.title = ¡Bienvenidos!
 master.welcome.text = \
@@ -30,6 +30,10 @@ master.menu.sign-out = Salir
 
 master.menu.anonymous = Anónimo
 master.menu.anonymous.fernando-link = Enlace de Calvo
+master.menu.anonymous.munyoz-link = Enlace de Muñoz
+master.menu.anonymous.gonzalez-link = Enlace de González
+master.menu.anonymous.bueno-link = Enlace de Bueno
+master.menu.anonymous.santos-link = Enlace de Santos
 
 # master.menu.administrator ###################################################
 
@@ -107,4 +111,6 @@ master.panic.label.request = Petición:
 master.panic.label.status = Estado:
 master.panic.label.exceptions = Excepciones:
 master.panic.text.consult-log = Por favor, consulte el log para ver más detalles.
+
+master.menu.anonymous.santos-link = Enlace de Santos
 
