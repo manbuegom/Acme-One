@@ -29,7 +29,8 @@ master.menu.sign-out = Salir
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anónimo
-master.menu.anonymous.fernando-link = Enlace de Calvo
+master.menu.anonymous.rodriguez-link = Enlace de Rodriguez
+master.menu.anonymous.calvo-link = Enlace de Calvo
 master.menu.anonymous.munyoz-link = Enlace de Muñoz
 master.menu.anonymous.gonzalez-link = Enlace de González
 master.menu.anonymous.bueno-link = Enlace de Bueno
