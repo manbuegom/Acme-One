@@ -29,7 +29,10 @@ master.menu.sign-out = Sign out
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anonymous
-master.menu.anonymous.muñoz-link = Muñoz's link
+master.menu.anonymous.munyoz-link = Muñoz's link
+master.menu.anonymous.gonzalez-link = Gonzalez' s Link
+master.menu.anonymous.bueno-link = Bueno's link
+master.menu.anonymous.santos-link = Santos's link
 
 # master.menu.administrator ###################################################
 
@@ -105,4 +108,5 @@ master.panic.label.request = Request:
 master.panic.label.status = Status:
 master.panic.label.exceptions = Exceptions:
 master.panic.text.consult-log = Please, consult the log to see them full stack trace.
+
 
