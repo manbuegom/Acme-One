@@ -29,7 +29,9 @@ master.menu.sign-out = Salir
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anónimo
+master.menu.anonymous.bueno-link = Enlace de Bueno
 master.menu.anonymous.santos-link = Enlace de Santos
+
 
 # master.menu.administrator ###################################################
 
