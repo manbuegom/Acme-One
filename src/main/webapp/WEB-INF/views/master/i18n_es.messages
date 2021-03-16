@@ -29,10 +29,10 @@ master.menu.sign-out = Salir
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anónimo
+master.menu.anonymous.munyoz-link = Enlace de Muñoz
 master.menu.anonymous.gonzalez-link = Enlace de González
 master.menu.anonymous.bueno-link = Enlace de Bueno
 master.menu.anonymous.santos-link = Enlace de Santos
-
 
 # master.menu.administrator ###################################################
 
