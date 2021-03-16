@@ -29,7 +29,7 @@ master.menu.sign-out = Salir
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anónimo
-master.menu.anonymous.favourite-link = Enlace favorito
+master.menu.anonymous.santos-link = Enlace de Santos
 
 # master.menu.administrator ###################################################
 
@@ -107,4 +107,6 @@ master.panic.label.request = Petición:
 master.panic.label.status = Estado:
 master.panic.label.exceptions = Excepciones:
 master.panic.text.consult-log = Por favor, consulte el log para ver más detalles.
+
+master.menu.anonymous.santos-link = Enlace de Santos
 
